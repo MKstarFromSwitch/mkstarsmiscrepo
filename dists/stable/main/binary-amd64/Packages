@@ -1,0 +1,15 @@
+Package: shellctl
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: utils
+Maintainer: MKstar
+Filename: pool/main/shellctl_1.0_amd64.deb
+Size: 1532
+MD5sum: d155977c3ac51211fc5a9b67f91f4a75
+SHA1: db79167584c240df55359386b83c5ac21fe9195a
+SHA256: 22a783dd6a2425a4a7394bdd25d4aad29bf3cb80a2287acd855ca1288816b80b
+SHA512: 22bbe6ba90c27e8d80c4b1e73b79d98c65d37e96e54a50d20db34fac705ae965fa3e5820152e4e6c47c641521d523fe8e1a73bcce4c184c696491a34a2da620e
+Description: A Bash script for controlling signal handling and the process of the shell.
+Triggers: man-db
+

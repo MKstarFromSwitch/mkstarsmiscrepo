@@ -1,24 +1,21 @@
-Architectures: amd64
-Codename: stable
-Components: main
-Date: Fri, 13 Mar 2026 10:34:21 +0000
-Description: My APT repo for misc stuff
-Label: MKstar's Misc Repo
-Origin: MKstar From Switch
-Suite: stable
+Date: Fri, 13 Mar 2026 10:40:08 +0000
 MD5Sum:
- 6d98723c4571d47aaf272c0e74fa34da              200 Release
+ 34811e82e249b4662983aa8630bd0093               38 Release
  d41d8cd98f00b204e9800998ecf8427e                0 main/Translation-en
- 2f72efc0bb3d2b2e6d559c8accc122fb              326 main/binary-amd64/Packages.gz
+ 046533b9e0854f9e14e31a439aeb5085              561 main/binary-amd64/Packages
+ 57224102c3de8d88feb53b4cc1f45662              418 main/binary-amd64/Packages.gz
 SHA1:
- 08d9f5ed25a721589e6a326a523dbc7fd35b76b1              200 Release
+ 0e5fd88c76ba1ce932f0bb219138a3d4fbf2aa5c               38 Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/Translation-en
- 6b0c3ab9820a1112d3ddc289cb24970c74c70a17              326 main/binary-amd64/Packages.gz
+ 3a09f88769d4d14178a76e41e969fd5e7fed5b45              561 main/binary-amd64/Packages
+ 406cec1ea95d8dccf24fcd52ffdc9594fcdb97e8              418 main/binary-amd64/Packages.gz
 SHA256:
- 07ae2e77a6a635d43448866697862a9d582262eff0b9e0f2c6cbac45d2229ac8              200 Release
+ 02b2431e56f7433f460000e57dc7a6eefd2aa64640515cc2ea8a5dedef904a25               38 Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/Translation-en
- 00fdfbeb12a52f50352e715e7e1888697b0b6a00567e0c143c770336ce4536fd              326 main/binary-amd64/Packages.gz
+ 2139f59d70f5f6ff8b204ea26addda66721a6818502ad6f0ad430cab8b5d9f28              561 main/binary-amd64/Packages
+ a021a01ddf7ba4fa2e583ab2dd54b3c67b43f22898962922ed64afadf0e70f69              418 main/binary-amd64/Packages.gz
 SHA512:
- 432aa092eeff3e2d676ec509cae358aee07408781c4b3f6fec27542a0794ff3db3b5a972f4844e129c3a6a81129c5ed37a2b434199256c2de7ab498c58bdb20a              200 Release
+ 22c4cb50503d4c5fb59044b86a06381f00e8370f144a259af850e1a9561d19d39b02e06c5f356d63a240cf5c6790b899102d22be3244f90f7dfb0f36c7246511               38 Release
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/Translation-en
- 514bf0e4bf1e0e98ab1c381ade0e433178140ff88ad8e173d78dbbaa2e5aafa947b4eca09776ed7c74b46afc82b38b9234785f22229667d55a5914db167e6fe9              326 main/binary-amd64/Packages.gz
+ 381ec79211eb5ec2b89510332bd12e862f266b5a34fe803e811f84711f2a78601fa6e200ac83695a0bff3dbee5d0aff5ed78da71479457482f1f47048dbddf7a              561 main/binary-amd64/Packages
+ cfc2e399529b7d5c05d9821e51879fa1fcf5228cdd76e7dfbd291dd06be067fe24733824c7285eeaf39815b83ef1f9fbe7d3bc89ba78b1c967db4de1f27e01ce              418 main/binary-amd64/Packages.gz

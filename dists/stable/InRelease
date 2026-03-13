@@ -1,38 +1,45 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Fri, 13 Mar 2026 10:40:08 +0000
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 13 Mar 2026 10:45:19 +0000
+Description: My APT repo for misc stuff
+Label: MKstar's Misc Repo
+Origin: MKstar From Switch
+Suite: stable
 MD5Sum:
- 34811e82e249b4662983aa8630bd0093               38 Release
+ 3a5575b729e2ed9655c4c5e87a2e054e              200 Release
  d41d8cd98f00b204e9800998ecf8427e                0 main/Translation-en
  046533b9e0854f9e14e31a439aeb5085              561 main/binary-amd64/Packages
- 57224102c3de8d88feb53b4cc1f45662              418 main/binary-amd64/Packages.gz
+ e56ec7184ee8f6352247a84bd0031f28              418 main/binary-amd64/Packages.gz
 SHA1:
- 0e5fd88c76ba1ce932f0bb219138a3d4fbf2aa5c               38 Release
+ 61b0fb573b10fa858a9778fbaa30cd1c4a4b4a97              200 Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/Translation-en
  3a09f88769d4d14178a76e41e969fd5e7fed5b45              561 main/binary-amd64/Packages
- 406cec1ea95d8dccf24fcd52ffdc9594fcdb97e8              418 main/binary-amd64/Packages.gz
+ 2cf38cb07f32750eaca524e0c21ef21adf37644c              418 main/binary-amd64/Packages.gz
 SHA256:
- 02b2431e56f7433f460000e57dc7a6eefd2aa64640515cc2ea8a5dedef904a25               38 Release
+ 5e94eeffe63f4b0b67181ccc2a8ed32b7fbb6cb378154b170d6d0bf61d5d68f5              200 Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/Translation-en
  2139f59d70f5f6ff8b204ea26addda66721a6818502ad6f0ad430cab8b5d9f28              561 main/binary-amd64/Packages
- a021a01ddf7ba4fa2e583ab2dd54b3c67b43f22898962922ed64afadf0e70f69              418 main/binary-amd64/Packages.gz
+ a5357b66fa1f42fbf991464f3988d7db4c8a3c5f0e5bee398fffd4a48c509d13              418 main/binary-amd64/Packages.gz
 SHA512:
- 22c4cb50503d4c5fb59044b86a06381f00e8370f144a259af850e1a9561d19d39b02e06c5f356d63a240cf5c6790b899102d22be3244f90f7dfb0f36c7246511               38 Release
+ 37c248315f44c48c39fdf50d73e9e8d9c6066aa81172b61480550e4fad847a235d4aebf14c49163f187a32054201a5c09663fce21268ebdbe8daefa4d470cf9c              200 Release
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/Translation-en
  381ec79211eb5ec2b89510332bd12e862f266b5a34fe803e811f84711f2a78601fa6e200ac83695a0bff3dbee5d0aff5ed78da71479457482f1f47048dbddf7a              561 main/binary-amd64/Packages
- cfc2e399529b7d5c05d9821e51879fa1fcf5228cdd76e7dfbd291dd06be067fe24733824c7285eeaf39815b83ef1f9fbe7d3bc89ba78b1c967db4de1f27e01ce              418 main/binary-amd64/Packages.gz
+ fcbe5db5d9629b59a28b7934e22038f9732602afb2cdc3ffccedbd3129961ed18b378c74b1306ed56af8ba971c557a2cdbcfa9a0f91e1006c728157a4f5d215c              418 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEnJKCMXf6MuleacTIFDlhmsDeMqsFAmmz6cUACgkQFDlhmsDe
-Mqu8wAv/VEdfPs3yymnZ6fL/JpL952BJnZLGDV/fLpC7blbfEI4P3dczymjzN5UI
-88mSMm1GlsAHTQe0uQjFTCQIgmL4bQUK9ya/Tlfr+8xxR5Fe7Te+XscX8sy605MJ
-V4kTgVaTjU8wUCcr6+yLsugRGndxN+p8/xRRbsa4T1IA0OtqlQO/PAYCDseEiMj/
-2O5e7FFxufmwI3FmaQ80npM0LXzITIFOsBZOxLjncMFovURCvmVNSpWxPKpPYKzf
-oKP6PCt7V7CaqPkO0wFiN9OesvUkuZ6606FpWidZCG6jzRFQ4HP2IgCvPWZtzyur
-CnwCScgArV/fmM9u/d2wb3E42lnlO91c5ZHMo9En42FpcgAHbxKASS/Qh2BL5Nfl
-qAtnua2sLJkq/TqNI8ZUxAj18nAkIGfc5RPLf/u79c1HYWnOv3BaLxlhmiBD6mA1
-9sfSO2urnjwOlV8d+t/XP5GHf80T2utJpbejRr3itYewnfcP2o5E6/QLi/upDBYB
-768u9rQz
-=JUyb
+iQGzBAEBCgAdFiEEnJKCMXf6MuleacTIFDlhmsDeMqsFAmmz6sAACgkQFDlhmsDe
+Mqt8gwwAujIQ4QjxU0/pA4tv008wg5dxZ6u8YdnYnHMtnNupBP/5VyteKhK4s95e
+xSvIBidmd++05HQTX1yJgAyWX4jplgGpx3LDG7EC960HreTFnjqH4woZXUCmi9vN
+CnxsOrnrPBsgN8uJ0FbDGPOW8ukwrCvTJQ4MAl8sPW1ZneKJ+3E7BNajrBTsMg85
+ir61DejV/xRfJKh3LSdmmDSTl6AjzIUbtAmXmKi+9iQkiULmlFqMjP7R1+oTb+yg
+f10EoxZ6WIVN7RqLNQ55bOgN6hr4gQi4vLLxh4S7bZB2xKD8v5v3DHx2R46W8mKS
+dUAK+Ey51IVvq8x8/DFLyLPNDB7Z7ejeHnOtkJ4XKCGJSv5GL9PLvo6qWU2wL0HI
+tPdLymOFc6OosbAsmoltA04KBckoFXXwQ78aE7rL71TVZoQze5SmQ4C6gP3XaTCk
+gTAx5ihzMLaTpv44nHJpb//GAW1xUNn9fPU/2sbJoODuu8LZVBb8Hrv6HwrLx70k
+XyOac4t3
+=x0h3
 -----END PGP SIGNATURE-----
